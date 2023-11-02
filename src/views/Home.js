@@ -12,8 +12,9 @@ const Home = () => {
     <div>
       <div className="">
         <h2>
-          This is the complete of the CI/CD and have completed the configuration
-          for the formatter and eslint
+          All done for CI/CD configuration. When you push your local changes to
+          the remote repository, github will build the whole project and then
+          deploy it on the https://prism-sable.vercel.app.
         </h2>
       </div>
     </div>
